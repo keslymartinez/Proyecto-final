@@ -1,4 +1,4 @@
-## Pokemon 
+# Pokemon 
 
 Es una single page application creada con la Api de pokemon TCG y Reactjs en la que puedes buscar informacion de las tarjetas de Pokémon TCG.
 
